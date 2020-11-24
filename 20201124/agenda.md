@@ -17,7 +17,7 @@ https://sunet.zoom.us/my/fresia
 * Martin Lindström
 * Stefan Santesson
 * Fresia Pérez
-* Nesic Dragoljub
+* Dragoljub Nešić
 * Petter Dahl
 * Mirko
 * Jesper Skagerberg
