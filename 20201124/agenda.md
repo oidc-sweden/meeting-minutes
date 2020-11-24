@@ -3,7 +3,11 @@ Agenda & mötensanteckningar 20201124
 
 * intro & recap från sista gången
 * attributprofil - utkast från Martin
-* övriga frågor
+* övriga frågor:
+  - arbetssätt - vem skriver
+  - testbänk
+  - oidc utbildning/level-set
+
 
 **Närvarande**
 
@@ -20,4 +24,8 @@ Agenda & mötensanteckningar 20201124
 
 Martin gick igenom anteckningarna från förra mötet.
 
-**beslut** Gruppen beslutade att köra mötesanteckningar publikt på github.
+Martin gick igenom utkast till attribut-profil
+
+**Beslut** 
+
+Gruppen beslutade att köra mötesanteckningar publikt på github.
