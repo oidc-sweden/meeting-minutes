@@ -5,16 +5,16 @@
 
 **Participants:**
 
-- Leif Johansson, SUNET
-- Fresia Pérez Arriagada, SUNET
-- Martin Lindström, IDsec Solutions
-- Stefan Santesson, IDsec Solutions
-- Petter Dahl, BankID
-- Jesper Skagerberg, BankID
-- Carl Hössner, BankID
-- Dragoljub Nešić, Freja eID
-- Milica Jelić, Freja eID
-- Stefan Halén, Internetstiftelsen
+- Leif Johansson
+- Fresia Pérez Arriagada
+- Martin Lindström
+- Stefan Santesson
+- Petter Dahl
+- Jesper Skagerberg
+- Carl Hössner
+- Dragoljub Nešić
+- Milica Jelić
+- Stefan Halén
 
 This was the first meeting of the working group where Martin Lindström provided a [presentation](20201103/20201103-OIDC-Sweden.pdf) intended as a base for the goals and purposes of the group.
 
