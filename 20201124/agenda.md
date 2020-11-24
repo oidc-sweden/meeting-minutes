@@ -13,14 +13,14 @@ https://sunet.zoom.us/my/fresia
 
 ## Närvarande
 
-* Leif Johansson (SUNET)
-* Martin Lindström (IDsec)
-* Stefan Santesson (IDSec)
-* Fresia Pérez (SUNET)
-* Nesic Dragoljub (Freja eID)
-* Petter Dahl (BankID)
-* Mirko (Freja eID)
-* Jesper Skagerberg (BankID)
+* Leif Johansson
+* Martin Lindström
+* Stefan Santesson
+* Fresia Pérez
+* Nesic Dragoljub
+* Petter Dahl
+* Mirko
+* Jesper Skagerberg
 
 ## Anteckningar
 
