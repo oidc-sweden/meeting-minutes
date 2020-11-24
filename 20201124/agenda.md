@@ -29,4 +29,6 @@ https://sunet.zoom.us/my/fresia
 
 ## Beslut 
 
-Gruppen beslutade att köra mötesanteckningar publikt på github.
+Gruppen beslutade att köra mötesanteckningar publikt på GitHub.
+
+Deltagarna väljer huruvida de representerar sig själva eller är representanter för en organisation.
