@@ -10,7 +10,7 @@ Agenda & mötensanteckningar 20201124
 * Martin Lindström (IDsec)
 * Stefan Santesson (IDSec)
 * Fresia Pérez (SUNET)
-* Nesa (FrejaID)
+* Nesic Dragoljub (FrejaID)
 * Petter Dahl (BankID)
 * Mirko (FrejaID)
 * Jesper Skagenberg (BankID?)
@@ -19,3 +19,4 @@ Agenda & mötensanteckningar 20201124
 
 Martin gick igenom anteckningarna från förra mötet.
 
+**beslut** Gruppen beslutade att köra mötesanteckningar publikt på github.
