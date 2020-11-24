@@ -1,5 +1,7 @@
 # Agenda & mötensanteckningar 20201124
 
+https://sunet.zoom.us/my/fresia
+
 
 * intro & recap från sista gången
 * attributprofil - utkast från Martin
