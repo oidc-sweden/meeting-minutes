@@ -1,5 +1,5 @@
-Agenda & mötensanteckningar 20201124
-===
+# Agenda & mötensanteckningar 20201124
+
 
 * intro & recap från sista gången
 * attributprofil - utkast från Martin
@@ -9,7 +9,7 @@ Agenda & mötensanteckningar 20201124
   - oidc utbildning/level-set
 
 
-**Närvarande**
+## Närvarande
 
 * Leif Johansson (SUNET)
 * Martin Lindström (IDsec)
@@ -20,12 +20,11 @@ Agenda & mötensanteckningar 20201124
 * Mirko (FrejaID)
 * Jesper Skagenberg (BankID?)
 
-**Anteckningar**
+## Anteckningar
 
-Martin gick igenom anteckningarna från förra mötet.
+* Martin gick igenom anteckningarna från förra mötet.
+* Martin gick igenom utkast till attribut-profil
 
-Martin gick igenom utkast till attribut-profil
-
-**Beslut** 
+## Beslut 
 
 Gruppen beslutade att köra mötesanteckningar publikt på github.
