@@ -17,10 +17,10 @@ https://sunet.zoom.us/my/fresia
 * Martin Lindström (IDsec)
 * Stefan Santesson (IDSec)
 * Fresia Pérez (SUNET)
-* Nesic Dragoljub (FrejaID)
+* Nesic Dragoljub (Freja eID)
 * Petter Dahl (BankID)
-* Mirko (FrejaID)
-* Jesper Skagenberg (BankID?)
+* Mirko (Freja eID)
+* Jesper Skagerberg (BankID)
 
 ## Anteckningar
 
