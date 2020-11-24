@@ -13,5 +13,9 @@ Agenda & mötensanteckningar 20201124
 * Nesa (FrejaID)
 * Petter Dahl (BankID)
 * Mirko (FrejaID)
-* Jesper (BankID?)
+* Jesper Skagenberg (BankID?)
+
+*Anteckningar*
+
+Martin gick igenom anteckningarna från förra mötet.
 
