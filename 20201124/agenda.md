@@ -5,7 +5,8 @@ Agenda & mötensanteckningar 20201124
 * attributprofil - utkast från Martin
 * övriga frågor
 
-*Närvarande*
+**Närvarande**
+
 * Leif Johansson (SUNET)
 * Martin Lindström (IDsec)
 * Stefan Santesson (IDSec)
@@ -15,7 +16,7 @@ Agenda & mötensanteckningar 20201124
 * Mirko (FrejaID)
 * Jesper Skagenberg (BankID?)
 
-*Anteckningar*
+**Anteckningar**
 
 Martin gick igenom anteckningarna från förra mötet.
 
