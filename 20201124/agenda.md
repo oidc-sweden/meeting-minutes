@@ -1,4 +1,4 @@
-# Agenda & mötensanteckningar 20201124
+# Agenda & mötesanteckningar 20201124
 
 https://sunet.zoom.us/my/fresia
 
@@ -19,7 +19,7 @@ https://sunet.zoom.us/my/fresia
 * Fresia Pérez
 * Dragoljub Nešić
 * Petter Dahl
-* Mirko
+* Mirko Stojmenovic
 * Jesper Skagerberg
 
 ## Anteckningar
