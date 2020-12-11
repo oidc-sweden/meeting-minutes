@@ -30,7 +30,7 @@ https://sunet.zoom.us/my/fresia
 
 * Diskussioner angående samordningsnummer, och dilemmat med att vissa är "starkare" än andra men att de ändå inte kommer upp i LoA 3. Det är oklart hur vi ska kunna använda samordningsnummer utan att använda kompletterande attribut som beskriver dess ursprung och "styrka".
 
-* Leif presenterade vectors-of-trust (https://tools.ietf.org/html/rfc8485).
+* Leif presenterade vectors-of-trust (https://tools.ietf.org/html/rfc8485). [VoT elegdagarna 2019](https://github.com/oidc-sweden/meeting-minutes/blob/main/20201210/VoT%20elegdagarna%202019.pdf)
 
 * Martin visade att vi har ett påbörjat utkast till vår tolkning av vectors-of-trust, https://github.com/oidc-sweden/specifications/blob/main/swedish-oidc-vector-of-trust.md.
 
