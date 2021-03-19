@@ -22,6 +22,7 @@ https://sunet.zoom.us/my/fresia
 * Fresia Pérez
 * Dragoljub Nešić
 * Petter Dahl
+* Erik Lupander
 * Stefan Halén
 * Roger Fagerud
 * Per Mützell
