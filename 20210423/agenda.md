@@ -14,7 +14,6 @@ https://sunet.zoom.us/my/fresia
 
 ## Närvarande
 
-<!--
 * Martin Lindström
 * Leif Johansson
 * Stefan Santesson
@@ -27,13 +26,21 @@ https://sunet.zoom.us/my/fresia
 * Roger Fagerud
 * Per Mützell
 * Anders Malmros
--->
 
 ## Anteckningar
 
+- Martin gick igenom huvuddokumentet för den svenska profilen:
+
+  - Kommentarer kring autentisering av klienten. Vi bör tillåta även clientSecret, och de tillämpningar som vill ha högre säkerhet kan skärpa detta krav.
+  
+  - Birthdate och age bör inte vara "mandatory". Alla IdP:er har inte tillgång till denna information.
+  
+  - Erik hävdar (korrekt) att enligt OIDC core så ska UserInfo användas för att leverera info enligt `user_info` claim. Vi måste utreda hur claims ska levereras. Att leverera i token endpoint är egentligen att föredra.
+  
+- Diskussioner om hur vi ska få vårt arbete att "lyfta". Specifikt måste vi få in organisationer som är intresserade av att ta fram klienter. F.n. har vi ingen uppenbar kandidat.
 
 ## Nästa möte
 
-* 2021-MM-DD
+* 2021-05-21
  
 
